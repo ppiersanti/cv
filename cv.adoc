@@ -1,0 +1,64 @@
+= Curriculum Vitae - Paolo Piersanti
+:author: Paolo Piersanti
+:data-uri:
+:doctype: article
+:encoding: utf-8
+:lang: en
+
+
+S.Nicolo' a T. +
+Teramo 64100
+
+paolo@micso.it +
+github.com/ppiersanti
+
+Works at: _Micso Srl_
+
+
+
+[[experience]]
+
+== Work Experience
+
+=== Micso -> Mar 2002 - {sys:echo $(date "+%b %Y")}; Pescara, IT
+*Software Developer / System Administrator*
+
+* Design and implementation of a system to send invoices to customers
+  through the Italian postal service.
+* Design and implementation of a system to handle the manufacturing
+  process of a customer extruding aluminium bars.
+
+
+
+
+=== FreeLance -> Aug 2000 - Feb 2002 (1.6 years); Teramo, IT
+*Software Developer / Hardware Maintenance*
+
+
+=== GoInfoteam -> Feb 2000 - Jul 2000 (6 months); Pescara, IT
+*Software Developer*
+
+=== Linea Informatica -> Jan 2000 - Feb 2000 (2 months); Teramo, IT
+*Software Developer*
+
+
+
+[[ProgrammingLanguages]]
+== Programming Languages
+
+[cols="<,<",]
+|============================================================
+|*Active Programming Languages*|Clojure, Groovy, Java
+|*Passive Programming Languages*|Python, Perl, C, C++, VB
+|*Version Control*| Git, Subversion, Mercurial
+|============================================================
+
+
+
+
+[[education]]
+
+== Education
+
+
+Diploma di Ragioneria

@@ -25,8 +25,9 @@ Works at: _Micso Srl_
 
 * Design and implementation of a system to send invoices to customers
   through the Italian postal service.
-* Design and implementation of a system to handle the manufacturing
-  process of a customer extruding aluminium bars.
+* Design and implementation of a system to handle the whole
+  manufacturing process of a customer in the aluminium bars
+  extrusion business.
 
 
 

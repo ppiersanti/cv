@@ -41,7 +41,7 @@ Works at: _Micso Srl_
 
 * Developing a warehouse storage system with the QT framework (C++).
 * Design and implementation of a system to extract data from PDF
-  invoices in order to automatize the data accounting (Java).
+  invoices in order to automatize the data entry process (Java).
 
 === GoInfoteam -> Feb 2000 - Jul 2000 (6 months); Pescara, IT
 *Software Developer*

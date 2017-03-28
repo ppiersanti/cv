@@ -45,11 +45,13 @@ Works at: _Micso Srl_
 
 === GoInfoteam -> Feb 2000 - Jul 2000 (6 months); Pescara, IT
 *Software Developer*
+
 * Implementation of a system to track activities and produce the
   related bill of materials. (Delphi)   
 
 === Linea Informatica -> Jan 2000 - Feb 2000 (2 months); Teramo, IT
 *Software Developer*
+
 * Maintenance of banking account routines (Cobol).
 
 

@@ -23,6 +23,7 @@ Works at: _Micso Srl_
 === Micso -> Mar 2002 - {sys:echo $(date "+%b %Y")}; Pescara, IT
 *Software Developer / System Administrator*
 
+.As software developer
 * Design and implementation of a system to send invoices to customers
   through the Italian postal service.
 * Design and implementation of a system to suspend the services
@@ -32,7 +33,12 @@ Works at: _Micso Srl_
 * Design and implementation of a system to handle the whole
   manufacturing process of a customer in the aluminium bars
   extrusion business.
-
+* Coding under Zope & Plone platforms.
+.As system administrator
+* System management under Unix/Linux & FreeBSD environment.
+* Implementation & maintenance of Internet services like email, http,
+  dns, etc.
+* Implementation & maintenance of Zope servers.
 
 
 

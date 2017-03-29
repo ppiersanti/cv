@@ -20,10 +20,12 @@ Works at: _Micso Srl_
 
 == Work Experience
 
-=== Micso -> Mar 2002 - {sys:echo $(date "+%b %Y")}; Pescara, IT
+=== Micso -> Mar 2002 - Present; Pescara, IT
 *Software Developer / System Administrator*
 
 .As software developer
+* Design and implementation of intranet services to support business
+  decisions and operations (Clojure/ClojureScript/Groovy/Java).
 * Design and implementation of a system to send invoices to customers
   through the Italian postal service (Java).
 * Design and implementation of a system to suspend the services
@@ -34,6 +36,7 @@ Works at: _Micso Srl_
   manufacturing process of a customer in the aluminium bars
   extrusion business (VB).
 * Coding under Zope & Plone platforms (Python).
+
 .As system administrator
 * System management under Unix/Linux & FreeBSD environment.
 * Implementation & maintenance of Internet services like email, http,
@@ -49,6 +52,7 @@ Works at: _Micso Srl_
 * Developing a warehouse storage system with the QT framework (C++).
 * Design and implementation of a system to extract data from PDF
   invoices in order to automatize the data entry process (Java).
+* Consulent & system administrator of Unix servers.
 
 === GoInfoteam -> Feb 2000 - Jul 2000 (6 months); Pescara, IT
 *Software Developer*
@@ -72,8 +76,26 @@ Works at: _Micso Srl_
 |*Version Control*| Git, Subversion, Mercurial
 |============================================================
 
+[[Competencies_And_Interests]]
+== Competencies And Interests
+
+.Skills
+* Excellent Unix/Linux & FreeBSD knowledge.
+* OOP & FP paradigms fluency, with a personal taste for FP.
+* Excellent SQL knowledge PostgreSql, MySql, MSSql, H2. 
+* Very good networking knowledge.
+* Troubleshooting both at networking and system level.
 
 
+[horizontal]
+.Languages
+English Ability:: Good in written and spoken English.
+Italian Ability:: Mother tongue
+
+.Personal Interests
+* Books; Cycling; Swimming; Skiing; Cross-Country Skiing; Trekking;
+  Travelling;
+* Linux Usergroup Member since 2000
 
 [[education]]
 

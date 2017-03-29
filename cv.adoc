@@ -25,20 +25,21 @@ Works at: _Micso Srl_
 
 .As software developer
 * Design and implementation of a system to send invoices to customers
-  through the Italian postal service.
+  through the Italian postal service (Java).
 * Design and implementation of a system to suspend the services
-  of insolvent clients.
+  of insolvent clients (Clojure).
 * Design and implementation of a system to charge client credit cards
-  according to the client billing cycle.
+  according to the client billing cycle (Clojure).
 * Design and implementation of a system to handle the whole
   manufacturing process of a customer in the aluminium bars
-  extrusion business.
-* Coding under Zope & Plone platforms.
+  extrusion business (VB).
+* Coding under Zope & Plone platforms (Python).
 .As system administrator
 * System management under Unix/Linux & FreeBSD environment.
 * Implementation & maintenance of Internet services like email, http,
   dns, etc.
 * Implementation & maintenance of Zope servers.
+* Bash scripting.
 
 
 
@@ -66,7 +67,7 @@ Works at: _Micso Srl_
 
 [cols="<,<",]
 |============================================================
-|*Active Programming Languages*|Clojure, Groovy, Java
+|*Active Programming Languages*|Clojure, Clojurescript, Groovy, Java
 |*Passive Programming Languages*|Python, Perl, C, C++, VB
 |*Version Control*| Git, Subversion, Mercurial
 |============================================================

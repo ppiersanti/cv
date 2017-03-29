@@ -67,7 +67,7 @@ Works at: _Micso Srl_
 
 [cols="<,<",]
 |============================================================
-|*Active Programming Languages*|Clojure, Clojurescript, Groovy, Java
+|*Active Programming Languages*|Clojure, ClojureScript, Groovy, Java
 |*Passive Programming Languages*|Python, Perl, C, C++, VB
 |*Version Control*| Git, Subversion, Mercurial
 |============================================================
@@ -80,4 +80,4 @@ Works at: _Micso Srl_
 == Education
 
 
-Diploma di Ragioneria
+Accounting school diploma

@@ -31,18 +31,21 @@ Works at: _Micso Srl_
 * Excellent Bash scripting and Unix programs tweaking for server administration task.
 * Very good experience with various markup languages as HTML, CSS, XML,
   Asciidoc, Markdown.
-* Excellent knowledge with editors like Emacs, Vim
-* Excellent knowledge with IDE like IntelliJ, Eclipse, Netbeans
+* Expert using editors like Emacs, Vim
+* Proficient with IDE like IntelliJ, Eclipse, Netbeans
 
 
 [[ProgrammingLanguages]]
 [horizontal]
 .Programming Languages
 
-Active Programming Languages:: Clojure, ClojureScript, Groovy, Java
+Active Programming Languages:: __Clojure__, __ClojureScript__, Groovy, Java
 Passive Programming Languages:: Python, Perl, C, C++, VB, PHP
 Version Control:: Git, Subversion, Mercurial
 
+.Overall
+
+* Ability to quickly learn and understand from self-study or analysis
 
 .Communications
 

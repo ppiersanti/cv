@@ -16,6 +16,36 @@ Works at: _Micso Srl_
 
 
 
+
+== Competencies And Skills
+
+.Skills
+* Design and implementation of web application both server and client
+  side with Clojure/ClojureScript technology (Ring, Reagent etc.).
+* Excellent Unix/Linux & FreeBSD systems knowledge.
+* OOP & FP paradigms fluency, with a personal taste for FP.
+* Design and implementation of Grails application.
+* Excellent SQL knowledge PostgreSql, MySql, MSSql, H2.
+* Very good networking knowledge. Troubleshooting ability both at
+  networking and system level.
+* Bash scripting.
+* HTML, CSS & JS
+
+[[ProgrammingLanguages]]
+[horizontal]
+.Programming Languages
+
+Active Programming Languages:: Clojure, ClojureScript, Groovy, Java
+Passive Programming Languages:: Python, Perl, C, C++, VB, PHP
+Version Control:: Git, Subversion, Mercurial
+
+[horizontal]
+.Languages
+English Ability:: fluently written and spoken
+French Ability:: basic spoken and written
+Italian Ability:: native
+
+
 [[experience]]
 
 == Work Experience
@@ -66,31 +96,8 @@ Works at: _Micso Srl_
 * Maintenance of banking account routines (Cobol).
 
 
-[[ProgrammingLanguages]]
-== Programming Languages
-
-[cols="<,<",]
-|============================================================
-|*Active Programming Languages*|Clojure, ClojureScript, Groovy, Java
-|*Passive Programming Languages*|Python, Perl, C, C++, VB
-|*Version Control*| Git, Subversion, Mercurial
-|============================================================
-
-[[Competencies_And_Interests]]
-== Competencies And Interests
-
-.Skills
-* Excellent Unix/Linux & FreeBSD knowledge.
-* OOP & FP paradigms fluency, with a personal taste for FP.
-* Excellent SQL knowledge PostgreSql, MySql, MSSql, H2. 
-* Very good networking knowledge.
-* Troubleshooting both at networking and system level.
-
-
-[horizontal]
-.Languages
-English Ability:: Good in written and spoken English.
-Italian Ability:: Mother tongue
+[[Interests]]
+== Interests
 
 .Personal Interests
 * Books; Cycling; Swimming; Skiing; Cross-Country Skiing; Trekking;

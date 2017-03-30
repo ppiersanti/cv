@@ -22,14 +22,18 @@ Works at: _Micso Srl_
 .Skills
 * Design and implementation of web application both server and client
   side with Clojure/ClojureScript technology (Ring, Reagent etc.).
-* Excellent Unix/Linux & FreeBSD systems knowledge.
-* OOP & FP paradigms fluency, with a personal taste for FP.
+* Excellent Unix/Linux & FreeBSD systems knowledge. More than 20 years
+  of operational experience. 
+* Excellent knowledge of the OOP & FP paradigms, with a personal taste for FP.
 * Design and implementation of Grails application.
-* Excellent SQL knowledge PostgreSql, MySql, MSSql, H2.
-* Very good networking knowledge. Troubleshooting ability both at
-  networking and system level.
-* Bash scripting.
-* HTML, CSS & JS
+* Excellent SQL knowledge with PostgreSql, MySql, MSSql, H2.
+* Very good experience with programming and troubleshooting the TCP/IP networking protocols.
+* Excellent Bash scripting and Unix programs tweaking for server administration task.
+* Very good experience with various markup languages as HTML, CSS, XML,
+  Asciidoc, Markdown.
+* Excellent knowledge with editors like Emacs, Vim
+* Excellent knowledge with IDE like IntelliJ, Eclipse, Netbeans
+
 
 [[ProgrammingLanguages]]
 [horizontal]
@@ -39,6 +43,18 @@ Active Programming Languages:: Clojure, ClojureScript, Groovy, Java
 Passive Programming Languages:: Python, Perl, C, C++, VB, PHP
 Version Control:: Git, Subversion, Mercurial
 
+
+.Communications
+
+* Team player - listen, share, cooperate, propose and learn together as a team
+
+
+.Public Speaking
+Various talks on Open Source Software and programming languages
+topics, at Linux Day conferences as Linux group member.
+
+* TELUG, Teramo, IT
+
 [horizontal]
 .Languages
 English Ability:: fluently written and spoken
@@ -47,13 +63,12 @@ Italian Ability:: native
 
 
 [[experience]]
-
 == Work Experience
 
 === Micso -> Mar 2002 - Present; Pescara, IT
 *Software Developer / System Administrator*
 
-.As software developer
+.Software developer
 * Design and implementation of intranet services to support business
   decisions and operations (Clojure/ClojureScript/Groovy/Java).
 * Design and implementation of a system to send invoices to customers
@@ -67,10 +82,10 @@ Italian Ability:: native
   extrusion business (VB).
 * Coding under Zope & Plone platforms (Python).
 
-.As system administrator
-* System management under Unix/Linux & FreeBSD environment.
+.System administrator
+* System management with Unix/Linux & FreeBSD environment.
 * Implementation & maintenance of Internet services like email, http,
-  dns, etc.
+  dns (Postfix, Nginx, Apache, Tomcat, Bind, Samba, Dspam).
 * Implementation & maintenance of Zope servers.
 * Bash scripting.
 
@@ -82,7 +97,7 @@ Italian Ability:: native
 * Developing a warehouse storage system with the QT framework (C++).
 * Design and implementation of a system to extract data from PDF
   invoices in order to automatize the data entry process (Java).
-* Consulent & system administrator of Unix servers.
+* Consultant & system administrator of Unix servers.
 
 === GoInfoteam -> Feb 2000 - Jul 2000 (6 months); Pescara, IT
 *Software Developer*

@@ -1,0 +1,144 @@
+= Curriculum Vitae - Paolo Piersanti
+:author: Paolo Piersanti
+:data-uri:
+:doctype: article
+:encoding: utf-8
+:lang: en
+
+
+S.Nicolo' a T. +
+Teramo 64100
+
+paolo@paolopiersanti.it +
+github.com/ppiersanti
+
+Works at: _Micso Srl_
+
+
+
+
+== Competenze
+
+.Skills
+* Progettazione e sviluppo di applicazioni web sia lato server che
+  client con tecnologia Clojure/ClojureScript (Ring, Reagent etc.).
+* Esperto in sistemi Unix/Linux & FreeBSD. Piu' di 20 anni di
+  esperienza operativa.
+* Esperto dei paradigmi di programmazione OOP & FP, con preferenza per FP.
+* Progettazione e sviluppo di applicazioni Grails.
+* Esperto in linguaggio SQL e in particolare con i db PostgreSql, MySql, MSSql, H2.
+* Esperto nella programmazione e capacita' di fare troubleshooting per
+  i protocolli di rete TCP/IP.
+* Esperto nello scripting Bash e nei programmi di sistema Unix per la
+  composizione di task amministrativi (sed, awk, regex, etc).
+* Esperto nella scrittura di linguaggi di markup come HTML, CSS, XML,
+  Asciidoc, Markdown.
+* Esperto nell'utilizzo di editor come Emacs, Vim; IDE come IntelliJ,
+  Eclipse, Netbeans; building tools come Maven, Gradle.
+* Esperto nella compilazione, installazione, configurazione e
+  hardening di software con strumenti come Make, GCC, Nagios, ssh,
+  nc, etc.
+  
+
+
+[[Linguaggi_di_Programmazione]]
+[horizontal]
+.Linguaggi di Programmazione
+
+Sviluppo principalmente in:: __Clojure__, __ClojureScript__, Groovy, Java
+Ho sviluppato e manutengo software in:: Python, Perl, C, C++, VB, PHP
+Version Control:: Git, Subversion, Mercurial
+
+.Caratteristiche salienti
+
+* Capacita' di apprendimento veloce e auto didatta. 
+
+.Comunicazione
+* Dinamica di Gruppo - Cooperazione, condivisione, propositivita' e buone capacita' di ascoltare  
+
+
+.Conferenze in pubblico
+Vari talks sul software Open Source in generale e su vari linguaggi di
+programmazione come membro del Telug (Linux User Group) in diversi
+Linux Day
+
+* TELUG, Teramo, IT
+
+[horizontal]
+.Lingue
+Inglese:: buono scritto e parlato
+Francese:: conoscenza scolastica
+Italiano:: Madrelingua
+
+
+[[experience]]
+== Esperienze Lavorative
+
+=== Micso -> Mar 2002 - Oggi; Pescara, IT
+*Software Developer / System Administrator*
+
+.Software developer
+* Progettazione e sviluppo di servizi intranet a supporto delle
+  decisioni del management aziendale (Clojure/ClojureScript/Groovy/Java).
+* Progettazione e sviluppo di un sistema per l'invio delle fatture ai
+  clienti in via telematica attraverso Poste Italiane (Java).
+* Progettazione a sviluppo di un sistema per la sospensione dei
+  servizi ac clienti insolventi (Clojure).
+* Progettazione a sviluppo di un sistema per l'addebito su carta di
+  credito in linea con il profilo di fatturazione del cliente.
+* Progettazione e sviluppo di un sistema per la gestione dell'intero
+  processo industriale di un cliente dedito all' estrusione di barre
+  di alluminio (VB).
+* Sviluppo con la piattaforma Plone su Zope (Python).
+* Progettazione e sviluppo di servizi intranet per la creazione di
+  workflow fra i vari reparti aziendali.
+* Progettazione e sviluppo di un sistema per l'assegnazione di premi
+  per i clienti che presentano un amico.
+
+
+.System administrator
+* Amministratore di sistema in ambiente Unix/Linux & FreeBSD.
+* Installazione, configurazione e manutenzione di servizi internet
+  come email, http, dns (Postfix, Nginx, Apache, Tomcat, Bind, Samba,
+  Dspam, Zope, CMS, sistema di ticket per i clienti, etc).
+* Bash scripting.
+
+
+
+=== FreeLance -> Aug 2000 - Feb 2002 (1.6 years); Teramo, IT
+*Software Developer / Hardware Maintenance*
+
+* Sviluppo di un sistema di inventario di magazzino con il framework
+  QT (C++).
+* Progettazione e sviluppo di un sistema per l'estrazione automatica
+  di dati da files in formato PDF, tipicamente fatture, e il
+  successivo data entry automatico nei sistemi gestionali aziendali (Java).   
+* Consulente e amministratore di sistema di server Unix.
+
+=== GoInfoteam -> Feb 2000 - Jul 2000 (6 months); Pescara, IT
+*Software Developer*
+
+* Sviluppo di un sistema per la tracciatura delle attivita' e
+  materiali impiegati nello svolgimento dell'attivita' e la
+  conseguente produzione della distinta base. (Delphi)   
+
+=== Linea Informatica -> Jan 2000 - Feb 2000 (2 months); Teramo, IT
+*Software Developer*
+
+* Manutenzione di software in un CED bancario (Cobol).
+
+
+[[Interests]]
+== Interessi
+
+.Interessi Personali
+* Libri; Sport praticati come: ciclismo, sci, sci di fondo, trekking;
+  Viaggi
+* Membro del Teramo Linux Usergroup sin dalla fondazione nel 2000
+
+[[education]]
+
+== Educazione
+
+
+Diploma di Ragioneria

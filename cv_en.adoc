@@ -33,7 +33,8 @@ Works at: _Micso Srl_
 * Very good experience with various markup languages as HTML, CSS, XML,
   Asciidoc, Markdown.
 * Expert using editors like Emacs, Vim
-* Proficient with IDE like IntelliJ, Eclipse, Netbeans
+* Proficient with IDE like IntelliJ, Eclipse, Netbeans; building tools like
+  Maven, Gradle.
 
 
 [[ProgrammingLanguages]]

@@ -9,7 +9,7 @@
 S.Nicolo' a T. +
 Teramo 64100
 
-paolo@micso.it +
+paolo@paolopiersanti.it +
 github.com/ppiersanti
 
 Works at: _Micso Srl_
@@ -28,7 +28,8 @@ Works at: _Micso Srl_
 * Design and implementation of Grails application.
 * Excellent SQL knowledge with PostgreSql, MySql, MSSql, H2.
 * Very good experience with programming and troubleshooting the TCP/IP networking protocols.
-* Excellent Bash scripting and Unix programs tweaking for server administration task.
+* Excellent Bash scripting and Unix programs tweaking for server
+  administration task (sed, awk, regex, piping programs etc).
 * Very good experience with various markup languages as HTML, CSS, XML,
   Asciidoc, Markdown.
 * Expert using editors like Emacs, Vim
@@ -45,7 +46,7 @@ Version Control:: Git, Subversion, Mercurial
 
 .Overall
 
-* Ability to quickly learn and understand from self-study or analysis
+* Ability to quickly learn and understand from self-study
 
 .Communications
 
@@ -83,14 +84,21 @@ Italian Ability:: native
 * Design and implementation of a system to handle the whole
   manufacturing process of a customer in the aluminium bars
   extrusion business (VB).
-* Coding under Zope & Plone platforms (Python).
+* Coding with Zope & Plone platforms (Python).
+* Design and implementation of intranet services to tie up the various
+  business department.
+* Design and implementation of a rewarding system for our customer
+  referring a friend.
 
 .System administrator
 * System management with Unix/Linux & FreeBSD environment.
 * Implementation & maintenance of Internet services like email, http,
-  dns (Postfix, Nginx, Apache, Tomcat, Bind, Samba, Dspam).
+  dns (Postfix, Nginx, Apache, Tomcat, Bind, Samba, Dspam, etc).
 * Implementation & maintenance of Zope servers.
 * Bash scripting.
+* Management of intranet services (CMS)
+* Management of customer ticket system
+
 
 
 

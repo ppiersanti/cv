@@ -35,6 +35,9 @@ Works at: _Micso Srl_
 * Expert using editors like Emacs, Vim
 * Proficient with IDE like IntelliJ, Eclipse, Netbeans; building tools like
   Maven, Gradle.
+* Experience in compiling, installing, configuring and hardening
+  software with tools like Make, GCC, Nagios, ssh, nc, etc.
+  
 
 
 [[ProgrammingLanguages]]
@@ -94,13 +97,10 @@ Italian Ability:: native
 .System administrator
 * System management with Unix/Linux & FreeBSD environment.
 * Implementation & maintenance of Internet services like email, http,
-  dns (Postfix, Nginx, Apache, Tomcat, Bind, Samba, Dspam, etc).
+  dns (Postfix, Nginx, Apache, Tomcat, Bind, Samba, Dspam, CMS,
+  Customer Ticket System, etc).
 * Implementation & maintenance of Zope servers.
 * Bash scripting.
-* Management of intranet services (CMS)
-* Management of customer ticket system
-
-
 
 
 === FreeLance -> Aug 2000 - Feb 2002 (1.6 years); Teramo, IT

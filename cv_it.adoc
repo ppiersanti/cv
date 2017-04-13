@@ -21,11 +21,13 @@ Works at: _Micso Srl_
 
 .Skills
 * Progettazione e sviluppo di applicazioni web sia lato server che
-  client con tecnologia Clojure/ClojureScript (Ring, Reagent etc.).
+  client con tecnologia Java, Clojure/ClojureScript (Ring, Reagent etc.).
 * Esperto in sistemi Unix/Linux & FreeBSD. Piu' di 20 anni di
   esperienza operativa.
-* Esperto dei paradigmi di programmazione OOP & FP, con preferenza per FP.
-* Progettazione e sviluppo di applicazioni Grails.
+* Esperto dei paradigmi di programmazione OOP & FP, con preferenza
+  per FP.
+* Circa 20 di esperienza nello sviluppo software.
+* Progettazione e sviluppo di applicazioni web Grails.
 * Esperto in linguaggio SQL e in particolare con i db PostgreSql, MySql, MSSql, H2.
 * Esperto nella programmazione e capacita' di fare troubleshooting per
   i protocolli di rete TCP/IP.
@@ -45,16 +47,23 @@ Works at: _Micso Srl_
 [horizontal]
 .Linguaggi di Programmazione
 
-Sviluppo principalmente in:: __Clojure__, __ClojureScript__, Groovy, Java
+Sviluppo principalmente in:: __Clojure__, __ClojureScript__, Java, Groovy
 Ho sviluppato e manutengo software in:: Python, Perl, C, C++, VB, PHP
 Version Control:: Git, Subversion, Mercurial
 
 .Caratteristiche salienti
 
-* Capacita' di apprendimento veloce e auto didatta. 
+* Capacita' di apprendimento veloce e auto didatta.
+* Capacita' di lavorare in autonomia e portare a compimento i progetti
+  assegnati.
+* Ricerca e innovazione continua.
+* Capacita' di guardare le cose da piu' punti di vista.
+  
 
 .Comunicazione
-* Dinamica di Gruppo - Cooperazione, condivisione, propositivita' e buone capacita' di ascoltare  
+* Dinamica di Gruppo - Cooperazione, condivisione, propositivita' e
+  ottime capacita' di ascoltare.
+  
 
 
 .Conferenze in pubblico
@@ -80,16 +89,17 @@ Italiano:: Madrelingua
 .Software developer
 * Progettazione e sviluppo di servizi intranet a supporto delle
   decisioni del management aziendale (Clojure/ClojureScript/Groovy/Java).
-* Progettazione e sviluppo di un sistema per l'invio delle fatture ai
+* Progettazione e sviluppo di un sistema per la fatturazione dei
   clienti in via telematica attraverso Poste Italiane (Java).
-* Progettazione a sviluppo di un sistema per la sospensione dei
-  servizi ac clienti insolventi (Clojure).
-* Progettazione a sviluppo di un sistema per l'addebito su carta di
+* Progettazione e sviluppo di un sistema per il controllo dei clienti
+  insolventi e workflow delle azioni da intraprendere come sospensione
+  dei servizi etc. (Clojure).
+* Progettazione e sviluppo di un sistema per l'addebito su carta di
   credito in linea con il profilo di fatturazione del cliente.
 * Progettazione e sviluppo di un sistema per la gestione dell'intero
   processo industriale di un cliente dedito all' estrusione di barre
   di alluminio (VB).
-* Sviluppo con la piattaforma Plone su Zope (Python).
+* Integrazioni e sviluppo su piattaforma Plone/Zope (Python).
 * Progettazione e sviluppo di servizi intranet per la creazione di
   workflow fra i vari reparti aziendali.
 * Progettazione e sviluppo di un sistema per l'assegnazione di premi
@@ -100,9 +110,10 @@ Italiano:: Madrelingua
 * Amministratore di sistema in ambiente Unix/Linux & FreeBSD.
 * Installazione, configurazione e manutenzione di servizi internet
   come email, http, dns (Postfix, Nginx, Apache, Tomcat, Bind, Samba,
-  Dspam, Zope, CMS, sistema di ticket per i clienti, etc).
+  Dspam, Zope, OpenCMS, sistema di ticket per i clienti OTRS, etc).
 * Bash scripting.
-
+* Responsabile per il programma e esame di accreditamento dell'azienda
+  come  _Registrar_ presso il NIC. 
 
 
 === FreeLance -> Aug 2000 - Feb 2002 (1.6 years); Teramo, IT
@@ -112,7 +123,10 @@ Italiano:: Madrelingua
   QT (C++).
 * Progettazione e sviluppo di un sistema per l'estrazione automatica
   di dati da files in formato PDF, tipicamente fatture, e il
-  successivo data entry automatico nei sistemi gestionali aziendali (Java).   
+  successivo data entry automatico nei sistemi gestionali aziendali
+  (Java).
+* Progettazione e sviluppo di un sistema per il rilevamento delle
+  presenze (Web/Python).
 * Consulente e amministratore di sistema di server Unix.
 
 === GoInfoteam -> Feb 2000 - Jul 2000 (6 months); Pescara, IT

@@ -26,14 +26,14 @@ Works at: _Micso Srl_
 * Esperto nella progettazione e sviluppo di applicazioni per l'office
   automation, applicazioni gestionali, di magazzino con l'ausilio di
   dispositivi bar code scanner, smart card reader e rfid. 
-* Esperto dei paradigmi di programmazione OOP & FP, con preferenza
-  per FP.
-* Circa 20 anni di esperienza nello sviluppo software.
+* Esperto nei paradigmi di programmazione OOP & FP, con preferenza
+  per FP. Piu' di 20 anni di esperienza nello sviluppo software.
 * Esperto in sistemi Unix/Linux & FreeBSD. Piu' di 20 anni di
   esperienza operativa.
 * Esperto in linguaggio SQL e in particolare con i db PostgreSql,
   MySql, MSSql, H2.
-* Esperto nella progettazione e sviluppo di applicazioni e-commerce.
+* Esperto nella progettazione e sviluppo di portali web e applicazioni
+  e-commerce.
 * Esperto nella programmazione e capacita' di fare troubleshooting per
   i protocolli di rete TCP/IP.
 * Esperto nello scripting Bash e nei programmi di sistema Unix per la
@@ -45,8 +45,7 @@ Works at: _Micso Srl_
 * Esperto nella compilazione, installazione, configurazione e
   hardening di software con strumenti come Make, GCC, Nagios, ssh,
   nc, firewall Iptables e pf, etc.
-* Sviluppo di app per Android
-* Sviluppo di software integrato a bar code scanner.
+* Sviluppo di app per Android.
   
 
 
@@ -102,11 +101,11 @@ Italiano:: Madrelingua
   insolventi e workflow delle azioni da intraprendere come sospensione
   dei servizi etc. (Clojure).
 * Progettazione e sviluppo di un sistema per l'addebito su carta di
-  credito in linea con il profilo di fatturazione del cliente.
+  credito in linea con il profilo di fatturazione del cliente e sulla
+  base delle scadenze amministrative (Clojure/Java).
 * Progettazione e sviluppo di un sistema per la gestione dell'intero
   processo industriale di un cliente dedito all'estrusione di barre
   di alluminio (VB).
-* Integrazioni e sviluppo su piattaforma Plone/Zope (Python).
 * Progettazione e sviluppo di servizi intranet, office automation per
   la creazione e l'armonizzazione di workflow fra i vari reparti
   aziendali (Clojure/Java).
@@ -114,7 +113,11 @@ Italiano:: Madrelingua
   per i clienti che presentano un amico (Clojure/Java).
 * Progettazione e sviluppo di un sistema web per la somministrazione
   di campagne di questionari multi-branch ai clienti per la
-  rilevazione del customer satisfaction e elaborazione dei risultati.  
+  rilevazione del customer satisfaction e elaborazione dei risultati.
+* Progettazione e sviluppo di portali web per la gestione dei servizi
+  dei clienti e funzionalita' interne aziendali (Clojure/Java/Groovy).  
+* Integrazioni e sviluppo per clienti con CMS su piattaforma
+  Plone/Zope (Python).
 
 
 .System administrator

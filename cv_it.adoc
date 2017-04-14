@@ -96,16 +96,18 @@ Italiano:: Madrelingua
 * Progettazione e sviluppo di servizi intranet a supporto delle
   decisioni del management aziendale (Clojure/ClojureScript/Groovy/Java).
 * Progettazione e sviluppo di un sistema per la fatturazione dei
-  clienti in via telematica attraverso Poste Italiane (Java).
+  clienti con la spedizione in via telematica (no cartaceo) attraverso
+  Poste Italiane e archiviazione su portale (Java).
 * Progettazione e sviluppo di un sistema per il controllo dei clienti
   insolventi e workflow delle azioni da intraprendere come sospensione
-  dei servizi etc. (Clojure).
+  dei servizi, riattivazione automatica dei servizi alla chiusura
+  delle partite in sospeso etc. (Clojure).
 * Progettazione e sviluppo di un sistema per l'addebito su carta di
   credito in linea con il profilo di fatturazione del cliente e sulla
   base delle scadenze amministrative (Clojure/Java).
 * Progettazione e sviluppo di un sistema per la gestione dell'intero
   processo industriale di un cliente dedito all'estrusione di barre
-  di alluminio (VB).
+  di alluminio, gestione della commessa, consuntivazione etc (VB).
 * Progettazione e sviluppo di servizi intranet, office automation per
   la creazione e l'armonizzazione di workflow fra i vari reparti
   aziendali (Clojure/Java).

@@ -3,7 +3,7 @@
 :data-uri:
 :doctype: article
 :encoding: utf-8
-:lang: en
+:lang: it
 
 
 S.Nicolo' a T. +
@@ -20,15 +20,20 @@ Works at: _Micso Srl_
 == Competenze
 
 .Skills
-* Progettazione e sviluppo di applicazioni web sia lato server che
-  client con tecnologia Java, Clojure/ClojureScript (Ring, Reagent etc.).
-* Esperto in sistemi Unix/Linux & FreeBSD. Piu' di 20 anni di
-  esperienza operativa.
+* Esperto nella progettazione e sviluppo di applicazioni web enterprise
+  server/client side con tecnologia Java, Clojure/ClojureScript (Ring,
+  Reagent, Spring, Grails etc).
+* Esperto nella progettazione e sviluppo di applicazioni per l'office
+  automation, applicazioni gestionali, di magazzino con l'ausilio di
+  dispositivi bar code scanner, smart card reader e rfid. 
 * Esperto dei paradigmi di programmazione OOP & FP, con preferenza
   per FP.
-* Circa 20 di esperienza nello sviluppo software.
-* Progettazione e sviluppo di applicazioni web Grails.
-* Esperto in linguaggio SQL e in particolare con i db PostgreSql, MySql, MSSql, H2.
+* Circa 20 anni di esperienza nello sviluppo software.
+* Esperto in sistemi Unix/Linux & FreeBSD. Piu' di 20 anni di
+  esperienza operativa.
+* Esperto in linguaggio SQL e in particolare con i db PostgreSql,
+  MySql, MSSql, H2.
+* Esperto nella progettazione e sviluppo di applicazioni e-commerce.
 * Esperto nella programmazione e capacita' di fare troubleshooting per
   i protocolli di rete TCP/IP.
 * Esperto nello scripting Bash e nei programmi di sistema Unix per la
@@ -39,7 +44,9 @@ Works at: _Micso Srl_
   Eclipse, Netbeans; building tools come Maven, Gradle.
 * Esperto nella compilazione, installazione, configurazione e
   hardening di software con strumenti come Make, GCC, Nagios, ssh,
-  nc, etc.
+  nc, firewall Iptables e pf, etc.
+* Sviluppo di app per Android
+* Sviluppo di software integrato a bar code scanner.
   
 
 
@@ -97,13 +104,17 @@ Italiano:: Madrelingua
 * Progettazione e sviluppo di un sistema per l'addebito su carta di
   credito in linea con il profilo di fatturazione del cliente.
 * Progettazione e sviluppo di un sistema per la gestione dell'intero
-  processo industriale di un cliente dedito all' estrusione di barre
+  processo industriale di un cliente dedito all'estrusione di barre
   di alluminio (VB).
 * Integrazioni e sviluppo su piattaforma Plone/Zope (Python).
-* Progettazione e sviluppo di servizi intranet per la creazione di
-  workflow fra i vari reparti aziendali.
+* Progettazione e sviluppo di servizi intranet, office automation per
+  la creazione e l'armonizzazione di workflow fra i vari reparti
+  aziendali (Clojure/Java).
 * Progettazione e sviluppo di un sistema per l'assegnazione di premi
-  per i clienti che presentano un amico.
+  per i clienti che presentano un amico (Clojure/Java).
+* Progettazione e sviluppo di un sistema web per la somministrazione
+  di campagne di questionari multi-branch ai clienti per la
+  rilevazione del customer satisfaction e elaborazione dei risultati.  
 
 
 .System administrator

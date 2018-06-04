@@ -20,10 +20,11 @@ Works at: _Micso Srl_
 == Competencies And Skills
 
 .Skills
+* Design and implementations of business software (Clojure).
 * Design and implementation of web application both server and client
   side with Clojure/ClojureScript technology (Ring, Reagent etc.).
 * Excellent Unix/Linux & FreeBSD systems knowledge. More than 20 years
-  of operational experience. 
+  of operational experience.
 * Excellent knowledge of the OOP & FP paradigms, with a personal taste for FP.
 * Design and implementation of Grails application.
 * Excellent SQL knowledge with PostgreSql, MySql, MSSql, H2.
@@ -37,20 +38,22 @@ Works at: _Micso Srl_
   Maven, Gradle.
 * Experience in compiling, installing, configuring and hardening
   software with tools like Make, GCC, Nagios, ssh, nc, etc.
-  
+
 
 
 [[ProgrammingLanguages]]
 [horizontal]
 .Programming Languages
 
-Active Programming Languages:: __Clojure__, __ClojureScript__, Groovy, Java
-Passive Programming Languages:: Python, Perl, C, C++, VB, PHP
+Active Programming Languages:: __Clojure__, __ClojureScript__,  Java
+Passive Programming Languages:: Groovy, Python, Perl, C, C++, VB, PHP
 Version Control:: Git, Subversion, Mercurial
 
 .Overall
 
+* Software developer enthusiast, continuosly trying to improve!
 * Ability to quickly learn and understand from self-study
+* Ability to view things from a multi-perspective approach.
 
 .Communications
 
@@ -65,7 +68,7 @@ topics, at Linux Day conferences as Linux group member.
 
 [horizontal]
 .Languages
-English Ability:: fluently written and spoken
+English Ability:: very good written and spoken
 French Ability:: basic spoken and written
 Italian Ability:: native
 
@@ -77,11 +80,13 @@ Italian Ability:: native
 *Software Developer / System Administrator*
 
 .Software developer
+* Design and implementation of an application to do customer order provisioning (Clojure).
+* Design and implementation of services and applications to enforce business rules (Clojure, Java).
 * Design and implementation of intranet services to support business
   decisions and operations (Clojure/ClojureScript/Groovy/Java).
-* Design and implementation of a system to send invoices to customers
+* Design and implementation of a system to send digitalized invoices to customers
   through the Italian postal service (Java).
-* Design and implementation of a system to suspend the services
+* Design and implementation of a system to suspend/reactivate the services
   of insolvent clients (Clojure).
 * Design and implementation of a system to charge client credit cards
   according to the client billing cycle (Clojure).
@@ -90,9 +95,10 @@ Italian Ability:: native
   extrusion business (VB).
 * Coding with Zope & Plone platforms (Python).
 * Design and implementation of intranet services to tie up the various
-  business department.
+  business department (ClojureScript).
 * Design and implementation of a rewarding system for our customer
-  referring a friend.
+  referring a friend (Clojure).
+* Sales Analysis software to build metrics to feed Grafana (Clojure).
 
 .System administrator
 * System management with Unix/Linux & FreeBSD environment.
@@ -115,7 +121,7 @@ Italian Ability:: native
 *Software Developer*
 
 * Implementation of a system to track activities and produce the
-  related bill of materials. (Delphi)   
+  related bill of materials. (Delphi)
 
 === Linea Informatica -> Jan 2000 - Feb 2000 (2 months); Teramo, IT
 *Software Developer*
